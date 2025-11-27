@@ -1,1 +1,1 @@
-# Customer-segmentation
+Performed customer segmentation using K-Means clustering on the Mall Customers dataset, analyzing annual income and spending scores to visualize clusters, identify customer groups, and support data-driven marketing insights.
